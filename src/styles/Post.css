@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    /* color: red; */
+    text-align: center;
+}
+
+
+
+/* #section{
+    display: flex;
+    justify-content: space-around;
+    background: #ccc;
+}
+
+#display{
+    border: 1px solid;
+   flex: 1;
+} */
+
+/* #btn{
+    flex: 1;
+} */
+
+#pend{
+    margin-top: 15px;
+}
