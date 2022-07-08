@@ -21,7 +21,7 @@ const EditPost = ({ id }) => {
   return (
     <>
         <input type="text" value={editText} onChange={Text} />
-        <button id='Edit-button' onClick={editPost}>Edit</button>
+        <button id='Edit-button' onClick={editPost}>Edit Post</button>
     </>
   )
 }

@@ -1,5 +1,11 @@
 {
-  "posts": [],
+  "posts": [
+    {
+      "id": "6bc688a-716-e058-c7ad-baa27dd281",
+      "title": "Hello World",
+      "author": "typicode"
+    }
+  ],
   "comments": [],
   "profile": {
     "name": "typicode"

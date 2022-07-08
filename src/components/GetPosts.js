@@ -35,8 +35,7 @@ const GetPosts = () => {
                 Get.map(item => (
                     <div  key={item.id} id='section'>
                         <p id='display'>{item.title}</p>
-                        <EditPost id= {item.id}/> <Delete id= {item.id}/>
-                        
+                        <EditPost id= {item.id}/> <Delete id= {item.id}/>   
                     </div>
                 ))
             }
